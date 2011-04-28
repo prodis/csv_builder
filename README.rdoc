@@ -1,5 +1,13 @@
 = CSV Builder
 
+<b>Please note:</b>
+
+<em>We no longer maintain this plugin - if you want to make use of it then we
+recommend you use Gabe da Silveira's fork
+https://github.com/dasil003/csv_builder. Gabe is actively maintaining his fork
+and has already converted it into a gem and upgraded it to work with Rails
+3.</em>
+
 The CSV Builder Rails plugin provides a simple templating system for serving
 dynamically generated CSV files from your application.
 
