@@ -55,5 +55,7 @@ Gem::Specification.new do |s|
     end
   else
   end
+
+  s.add_dependency('actionpack', '>=3.0.0')
 end
 
